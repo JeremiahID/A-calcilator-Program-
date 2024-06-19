@@ -1,5 +1,6 @@
 # A program for a simple calculator
 
+
 # A function to multiply two numbers
 def Multiply():
     x = int(input("Enter value for Num1: "))
